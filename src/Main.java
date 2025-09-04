@@ -9,6 +9,8 @@ public class Main {
     public static void main(String[] args) {
 
         int opc,op1,op2,op3,op4;
+
+
         int votja = 0;
         int votAn = 0;
         int votMa = 0;
