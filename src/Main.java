@@ -12,6 +12,7 @@ public class Main {
 
 
         int votja = 0;
+
         int votAn = 0;
         int votMa = 0;
         int votBl = 0;
